@@ -42,7 +42,7 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
     "wpackagist-plugin/query-monitor": "^3.16",
-    "wpackagist-plugin/autodescription": "5.0.5",
+    "wpackagist-plugin/autodescription": "5.0.6",
     "wpackagist-plugin/svg-support": "^2.5",
     "roots/acorn": "^4.3"
   },

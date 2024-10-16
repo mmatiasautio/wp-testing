@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "742c7e0154be2e9593c5d87dd560693e",
+    "content-hash": "9a0735b9f939eb0fa354f442f40d6b5c",
     "packages": [
         {
             "name": "brick/math",
@@ -6330,15 +6330,15 @@
         },
         {
             "name": "wpackagist-plugin/autodescription",
-            "version": "5.0.5",
+            "version": "5.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/autodescription/",
-                "reference": "tags/5.0.5"
+                "reference": "tags/5.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/autodescription.5.0.5.zip"
+                "url": "https://downloads.wordpress.org/plugin/autodescription.5.0.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
