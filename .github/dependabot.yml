@@ -4,9 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    ignore:
-      - dependency-name: "roots/wordpress"
-        update-types: ["version-update:semver-major"]
+    labels:
+      - "composer"
+      - "wordpress"
+      - "dependencies"
     groups: # group together all roots related updates
       roots:
         patterns:
@@ -15,6 +16,9 @@ updates:
     directory: "/web/app/themes/wptesting/"
     schedule:
       interval: "weekly"
+    labels:
+      - "npm"
+      - "dependencies"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
